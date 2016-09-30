@@ -1,3 +1,29 @@
+0.2.17
+======
+- Fixed nfldb.team.standard_team to recognize LA Rams.
+
+
+0.2.16
+======
+- Updates for the 2016 season.
+- Includes database migration to add new LA team.
+
+
+0.2.15
+======
+- Revert PR #142.
+
+
+0.2.14
+======
+- Fix #134 by bumping nflgame dependency.
+
+
+0.2.11
+======
+- Add custom override for start time for 2015100400
+
+
 0.2.10
 ======
 - Fix #80.
